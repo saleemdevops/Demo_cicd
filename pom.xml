@@ -6,7 +6,7 @@
     <artifactId>Maven-Demo</artifactId>
    <version>0.0.1-SNAPSHOT</version>
    
-	
+	//test script
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -14,9 +14,7 @@
 
 	<build>
 	<pluginManagement>
-		<plugins>
-			
-				
+		<plugins>					
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
